@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.7.28)  4 DEC 2025 20:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.7.28)  4 DEC 2025 20:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -381,24 +381,24 @@ Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
 (./Shweta_Rani_Resume_1Page.aux)
 \openout1 = `Shweta_Rani_Resume_1Page.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 85.
-LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
 
 (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -414,67 +414,67 @@ LaTeX Font Info:    ... okay on input line 85.
 \makeMPintoPDFobject=\count303
 \everyMPtoPDFconversion=\toks27
 )
-Package hyperref Info: Link coloring OFF on input line 85.
+Package hyperref Info: Link coloring OFF on input line 83.
  (./Shweta_Rani_Resume_1Page.out) (./Shweta_Rani_Resume_1Page.out)
 \@outlinefile=\write3
 \openout3 = `Shweta_Rani_Resume_1Page.out'.
 
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 91.
+nput line 89.
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd
 )
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 92.
-
-(/usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
-)
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 92.
+(Font)              <9> on input line 89.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 92.
+(Font)              <6> on input line 89.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 92.
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 92
+(Font)              <5> on input line 89.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 89
 .
  (/usr/local/texlive/2025/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
+nput line 90.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
+)
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 93.
+ input line 91.
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.
 fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <9> not a
 vailable
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 93.
+n input line 91.
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands1 on
- input line 95.
+ input line 93.
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands1.
 fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands1/solid/n' in size <9> not a
 vailable
 (Font)              Font shape `U/fontawesomebrands1/regular/n' tried instead o
-n input line 95.
+n input line 93.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
-(Font)              using `OT1/cmr/bx/n' instead on input line 100.
+(Font)              using `OT1/cmr/bx/n' instead on input line 98.
 
 
-Overfull \hbox (0.56041pt too wide) in paragraph at lines 162--163
+Overfull \hbox (0.55313pt too wide) in paragraph at lines 158--159
 []  
  []
 
 
-Overfull \hbox (0.56041pt too wide) in paragraph at lines 171--172
+Overfull \hbox (0.55313pt too wide) in paragraph at lines 167--168
 []  
  []
 
 
-Overfull \hbox (0.56041pt too wide) in paragraph at lines 180--181
+Overfull \hbox (0.55313pt too wide) in paragraph at lines 176--177
 []  
  []
 
@@ -501,32 +501,39 @@ L3 programming layer <2025-01-18>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `Shweta_Rani_Resume_1Page.out' has not change
-d.
-(rerunfilecheck)             Checksum: 6BBCB65D635E5FE52BAC5FD5AEEDD221;826.
+
+Package rerunfilecheck Warning: File `Shweta_Rani_Resume_1Page.out' has changed
+.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Shweta_Rani_Resume_1Page.out':
+(rerunfilecheck)             Before: 6BBCB65D635E5FE52BAC5FD5AEEDD221;826
+(rerunfilecheck)             After:  F0D115F22879A0249D0FBACB0A12C1DF;894.
  ) 
 Here is how much of TeX's memory you used:
- 14217 strings out of 473190
- 246516 string characters out of 5715800
- 674165 words of memory out of 5000000
- 37305 multiletter control sequences out of 15000+600000
- 564639 words of font info for 57 fonts, out of 8000000 for 9000
+ 14216 strings out of 473190
+ 246538 string characters out of 5715800
+ 674151 words of memory out of 5000000
+ 37303 multiletter control sequences out of 15000+600000
+ 564998 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,478b,456s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,563b,456s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAweso
 me5Brands-Regular.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/fo
 ntawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2025/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2025/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2025/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmti9.pfb>
-Output written on Shweta_Rani_Resume_1Page.pdf (1 page, 123082 bytes).
+pe1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2025/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2025/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmti9.pfb>
+Output written on Shweta_Rani_Resume_1Page.pdf (1 page, 134149 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
- 86 compressed objects within 1 object stream
+ 115 PDF objects out of 1000 (max. 8388607)
+ 89 compressed objects within 1 object stream
  9 named destinations out of 1000 (max. 500000)
  57 words of extra memory for PDF output out of 10000 (max. 10000000)
 

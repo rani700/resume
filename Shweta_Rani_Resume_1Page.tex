@@ -1,5 +1,5 @@
 %-------------------------
-% ATS-Friendly 1-Page Data Engineer Resume (Full Page)
+% ATS-Friendly 1-Page Data Engineer Resume
 % Author: Shweta Rani
 %-------------------------
 
@@ -22,28 +22,28 @@
 \setlength{\columnsep}{-1pt}
 \input{glyphtounicode}
 
-%----------FONT OPTIONS----------
+%----------PAGE SETUP----------
 \pagestyle{fancy}
 \fancyhf{}
 \fancyfoot{}
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
 
-% Margins for full 1-page
-\addtolength{\oddsidemargin}{-0.6in}
-\addtolength{\evensidemargin}{-0.5in}
-\addtolength{\textwidth}{1.2in}
-\addtolength{\topmargin}{-0.6in}
-\addtolength{\textheight}{1.3in}
+% Optimized margins for full 1-page
+\addtolength{\oddsidemargin}{-0.55in}
+\addtolength{\evensidemargin}{-0.55in}
+\addtolength{\textwidth}{1.1in}
+\addtolength{\topmargin}{-0.5in}
+\addtolength{\textheight}{1.1in}
 
 \urlstyle{same}
 \raggedbottom
 \raggedright
 \setlength{\tabcolsep}{0in}
 
-% Sections formatting
+% Section formatting
 \titleformat{\section}{
-  \vspace{-5pt}\scshape\raggedright\large\bfseries
+  \vspace{-4pt}\scshape\raggedright\large\bfseries
 }{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
 
 \pdfgentounicode=1
@@ -71,8 +71,6 @@
     \end{tabular*}\vspace{-7pt}
 }
 
-\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
-
 \renewcommand\labelitemi{$\vcenter{\hbox{\tiny$\bullet$}}$}
 \renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
 
@@ -86,36 +84,34 @@
 
 %----------HEADING----------
 \begin{center}
-    {\Huge \scshape Shweta Rani} \\ \vspace{1pt}
+    {\Huge \scshape Shweta Rani} \\ \vspace{3pt}
     \small 
-    \raisebox{-0.1\height}\faPhone\ +91-7668681196 ~ 
-    \href{mailto:shwetanimesh700@gmail.com}{\raisebox{-0.2\height}\faEnvelope\ \underline{shwetanimesh700@gmail.com}} ~ 
-    \href{https://linkedin.com/in/shwetarani24}{\raisebox{-0.2\height}\faLinkedin\ \underline{linkedin.com/in/shwetarani24}} ~
-    \href{https://github.com/rani700}{\raisebox{-0.2\height}\faGithub\ \underline{github.com/rani700}} ~
-    \href{https://youtube.com/@ShwetaNimesh}{\raisebox{-0.2\height}\faYoutube\ \underline{YouTube}}
+    \faPhone\ +91-7668681196 \quad $|$ \quad
+    \href{mailto:shwetanimesh700@gmail.com}{\faEnvelope\ \underline{shwetanimesh700@gmail.com}} \quad $|$ \quad
+    \href{https://linkedin.com/in/shwetarani24}{\faLinkedin\ \underline{LinkedIn}} \quad $|$ \quad
+    \href{https://github.com/rani700}{\faGithub\ \underline{GitHub}} \quad $|$ \quad
+    \href{https://youtube.com/@ShwetaNimesh}{\faYoutube\ \underline{YouTube}}
     \vspace{-8pt}
 \end{center}
 
 %-----------SUMMARY-----------
-\section{Summary}
+\section{Professional Summary}
 \small{
-Data Engineer with 4+ years of experience building scalable ETL/ELT pipelines, real-time streaming solutions, and cloud-based data architectures. Expertise in AWS, Snowflake, Apache NiFi, and Python. Published researcher (Springer) and technical content creator building the Data Engineering community. Proven track record of reducing data latency by 60\%, improving query performance by 40\%, and processing 10M+ records daily.
+Data Engineer with \textbf{4+ years} of experience building scalable ETL/ELT pipelines, real-time streaming solutions, and cloud-based data architectures. Expertise in \textbf{AWS, Snowflake, Databricks, Apache NiFi}, and \textbf{Python}. Published researcher (Springer Singapore) and technical content creator building the Data Engineering community. Proven track record of \textbf{reducing data latency by 60\%}, \textbf{improving query performance by 40\%}, and \textbf{processing 10M+ records daily}.
 }
-\vspace{-12pt}
+\vspace{-10pt}
 
 %-----------TECHNICAL SKILLS-----------
 \section{Technical Skills}
- \begin{itemize}[leftmargin=0.15in, label={}]
-    \small{\item{
-     \textbf{Data Engineering}{: ETL/ELT Pipelines, Data Warehousing, Data Modeling, CDC (Change Data Capture), Real-time Streaming, SnowPipe, Data Quality Frameworks} \\
-     \textbf{Cloud Platforms}{: AWS (S3, Lambda, EC2, CloudWatch, Glue, Redshift), Azure (Data Factory, Synapse), Snowflake, Databricks} \\
-     \textbf{Big Data \& Processing}{: PySpark, Apache NiFi, Apache Airflow, Apache Spark} \\
-     \textbf{Programming}{: Python, SQL, PySpark, Bash/Shell Scripting} \\
-     \textbf{Databases}{: Snowflake, PostgreSQL, MySQL, MongoDB, Amazon Redshift, Delta Lake} \\
-     \textbf{Tools \& DevOps}{: Docker, Git, Linux, Jupyter, Power BI, Tableau, Jira}
-    }}
- \end{itemize}
-\vspace{-15pt}
+\begin{tabular}{@{} l l}
+    \textbf{Data Engineering:} & ETL/ELT Pipelines, Data Warehousing, Data Modeling, CDC, Real-time Streaming, SnowPipe \\
+    \textbf{Cloud \& Big Data:} & AWS (S3, Lambda, EC2, Glue, Redshift), Azure (Data Factory, Synapse), Snowflake, Databricks \\
+    \textbf{Processing:} & PySpark, Apache Spark, Apache NiFi, Apache Airflow, Kafka \\
+    \textbf{Programming:} & Python, SQL, PySpark, Bash/Shell Scripting \\
+    \textbf{Databases:} & Snowflake, PostgreSQL, MySQL, MongoDB, Redshift, Delta Lake \\
+    \textbf{Tools:} & Docker, Git, Linux, Power BI, Tableau, Jupyter, Jira \\
+\end{tabular}
+\vspace{-8pt}
 
 %-----------EXPERIENCE-----------
 \section{Professional Experience}
@@ -125,10 +121,10 @@ Data Engineer with 4+ years of experience building scalable ETL/ELT pipelines, r
       {WNS}{Jul 2024 -- Present}
       {Data Engineer}{Gurugram, India}
       \resumeItemListStart
-        \resumeItem{Design and implement end-to-end ETL/ELT pipelines using Python, SQL, and AWS to process 10M+ records daily}
-        \resumeItem{Build real-time data streaming architectures using Apache NiFi and Snowflake, reducing data latency by 60\%}
-        \resumeItem{Develop automated data quality frameworks with validation checks ensuring 99\% data accuracy across pipelines}
-        \resumeItem{Optimize SQL queries and data workflows resulting in 40\% improvement in performance and cost reduction}
+        \resumeItem{Design and implement \textbf{end-to-end ETL/ELT pipelines} using Python, SQL, and AWS to process \textbf{10M+ records daily}}
+        \resumeItem{Build \textbf{real-time data streaming} architectures using Apache NiFi and Snowflake, \textbf{reducing data latency by 60\%}}
+        \resumeItem{Develop automated \textbf{data quality frameworks} with validation checks ensuring \textbf{99\% data accuracy} across pipelines}
+        \resumeItem{Optimize SQL queries and data workflows resulting in \textbf{40\% improvement} in performance and cost reduction}
         \resumeItem{Collaborate with cross-functional teams to translate business requirements into scalable data solutions}
       \resumeItemListEnd
 
@@ -136,23 +132,23 @@ Data Engineer with 4+ years of experience building scalable ETL/ELT pipelines, r
       {Airtrik}{Dec 2023 -- Jun 2024}
       {Data Engineer}{Noida, India}
       \resumeItemListStart
-        \resumeItem{Built scalable data pipelines using Python, Apache NiFi, and AWS (EC2, S3, Lambda) for enterprise data integration}
-        \resumeItem{Implemented CDC using SnowPipe and Snowflake streams/tasks for near real-time incremental data processing}
+        \resumeItem{Built scalable data pipelines using Python, Apache NiFi, and \textbf{AWS (EC2, S3, Lambda)} for enterprise data integration}
+        \resumeItem{Implemented \textbf{CDC using SnowPipe} and Snowflake streams/tasks for near real-time incremental data processing}
         \resumeItem{Designed data models and optimized Snowflake warehouse configurations for improved query performance}
-        \resumeItem{Containerized data applications using Docker, reducing deployment time by 50\% across environments}
+        \resumeItem{Containerized data applications using \textbf{Docker}, reducing deployment time by \textbf{50\%} across environments}
       \resumeItemListEnd
 
     \resumeSubheading
       {Astrea IT Services}{Jul 2020 -- Feb 2022}
       {Software Developer}{Noida, India}
       \resumeItemListStart
-        \resumeItem{Developed Python and SQL-based applications; optimized database schemas improving query performance by 35\%}
+        \resumeItem{Developed Python and SQL-based applications; optimized database schemas improving query performance by \textbf{35\%}}
         \resumeItem{Built automated data processing scripts and REST APIs for internal analytics and reporting systems}
         \resumeItem{Collaborated in agile environment, participating in code reviews and ensuring high-quality deliverables}
       \resumeItemListEnd
 
   \resumeSubHeadingListEnd
-\vspace{-15pt}
+\vspace{-14pt}
 
 %-----------PROJECTS-----------
 \section{Projects}
@@ -161,56 +157,56 @@ Data Engineer with 4+ years of experience building scalable ETL/ELT pipelines, r
       \resumeProjectHeading
           {\textbf{Real-time Data Streaming Pipeline} $|$ \emph{Apache NiFi, AWS, Snowflake, SnowPipe, Docker} $|$ \href{https://github.com/rani700/RealTime-Data-Streaming-using-Apache-Nifi-AWS-and-Snowflake}{\underline{GitHub}} $|$ \href{https://www.youtube.com/watch?v=wH_MlgZoMhA}{\underline{Demo}}}{}
           \resumeItemListStart
-            \resumeItem{Architected end-to-end streaming pipeline: EC2 $\rightarrow$ Apache NiFi $\rightarrow$ S3 $\rightarrow$ SnowPipe $\rightarrow$ Snowflake}
-            \resumeItem{Implemented Change Data Capture (CDC) using Snowflake streams and tasks for incremental data processing}
+            \resumeItem{Architected end-to-end streaming pipeline: \textbf{EC2 $\rightarrow$ Apache NiFi $\rightarrow$ S3 $\rightarrow$ SnowPipe $\rightarrow$ Snowflake}}
+            \resumeItem{Implemented \textbf{Change Data Capture (CDC)} using Snowflake streams and tasks for incremental data processing}
             \resumeItem{Containerized entire solution using Docker Compose for consistent deployment and scalability}
           \resumeItemListEnd
-          \vspace{-13pt}
+          \vspace{-12pt}
           
       \resumeProjectHeading
           {\textbf{Spotify ETL Pipeline} $|$ \emph{AWS Lambda, S3, CloudWatch, Snowflake, Python} $|$ \href{https://github.com/rani700/SpotifyData-ETL-Pipeline}{\underline{GitHub}} $|$ \href{https://www.youtube.com/watch?v=rFcpMrcK25M}{\underline{Demo}}}{}
           \resumeItemListStart
-            \resumeItem{Built serverless ETL pipeline using AWS Lambda to extract, transform, and load Spotify API data into Snowflake}
+            \resumeItem{Built \textbf{serverless ETL pipeline} using AWS Lambda to extract, transform, and load Spotify API data into Snowflake}
             \resumeItem{Automated pipeline execution with CloudWatch triggers; implemented data validation and error handling}
-            \resumeItem{Designed star schema data model in Snowflake for efficient analytical queries}
+            \resumeItem{Designed \textbf{star schema data model} in Snowflake for efficient analytical queries}
           \resumeItemListEnd
-          \vspace{-13pt}
+          \vspace{-12pt}
 
       \resumeProjectHeading
           {\textbf{Twitter Sentiment Analysis} $|$ \emph{Python, Flask, NLP, TextBlob} $|$ \href{https://github.com/rani700/sentiment-analysis}{\underline{GitHub}}}{}
           \resumeItemListStart
-            \resumeItem{Developed real-time sentiment analysis application processing 100+ tweets per query using NLP techniques}
+            \resumeItem{Developed real-time sentiment analysis application processing \textbf{100+ tweets per query} using NLP techniques}
             \resumeItem{Built Flask web interface with data visualization for sentiment distribution and trend analysis}
           \resumeItemListEnd
           
     \resumeSubHeadingListEnd
-\vspace{-15pt}
+\vspace{-14pt}
 
 %-----------EDUCATION-----------
 \section{Education}
   \resumeSubHeadingListStart
     \resumeSubheading
       {Gautam Buddha University}{Aug 2015 -- Dec 2020}
-      {Integrated B.Tech (CS) + M.Tech (AI \& Robotics) -- CGPA: 8.22 / 8.36}{Greater Noida, India}
+      {Integrated B.Tech (Computer Science) + M.Tech (AI \& Robotics) -- \textbf{CGPA: 8.22 / 8.36}}{Greater Noida, India}
   \resumeSubHeadingListEnd
-\vspace{-14pt}
+\vspace{-12pt}
 
 %-----------CERTIFICATIONS & PUBLICATIONS-----------
 \section{Certifications \& Publications}
  \begin{itemize}[leftmargin=0.15in, label={}]
     \small{\item{
-     \textbf{Machine Learning} -- Stanford University (Coursera) by Andrew Ng \\
-     \textbf{Research Publication}: \href{https://link.springer.com/book/10.1007/978-981-15-8335-3}{\underline{Data Imputation in WSN using Deep Learning}} -- Springer Singapore (ICDAM 2021)
+     $\bullet$ \textbf{Machine Learning} -- Stanford University (Coursera) by Andrew Ng \\
+     $\bullet$ \textbf{Research Publication}: \href{https://link.springer.com/book/10.1007/978-981-15-8335-3}{\underline{Data Imputation in WSN using Deep Learning}} -- Springer Singapore (ICDAM 2021)
     }}
  \end{itemize}
-\vspace{-14pt}
+\vspace{-12pt}
 
 %-----------ADDITIONAL-----------
 \section{Additional}
  \begin{itemize}[leftmargin=0.15in, label={}]
     \small{\item{
-     \textbf{Community}: Building Data Engineering community on \href{https://youtube.com/@ShwetaNimesh}{\underline{YouTube}} with technical tutorials on AWS, Snowflake, NiFi \\
-     \textbf{Languages}: English (Professional), Hindi (Native)
+     $\bullet$ \textbf{Community}: Building Data Engineering community on \href{https://youtube.com/@ShwetaNimesh}{\underline{YouTube}} -- Technical tutorials on AWS, Snowflake, Apache NiFi \\
+     $\bullet$ \textbf{Languages}: English (Professional Proficiency), Hindi (Native)
     }}
  \end{itemize}
 
